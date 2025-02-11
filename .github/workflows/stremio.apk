@@ -1,0 +1,3 @@
+`dl <flatpak install flathub com.stremio.Stremio>`
+
+`flatpak run com.stremio.Stremio`

@@ -1,0 +1,10 @@
+- pipe: atlassian/firebase-deploy:5.1.1
+  variables:
+    KEY_FILE: '<git clone git@bitbucket.org:atlassian/firebase-deploy.git>'
+    FIREBASE_TOKEN: '<ATCTT3xFfGN0LWOpSI-eL1lncCGNixXgv3JE8co4tGkKWEOZt6wGobAI_SfugXDLGs0hmFcqIqn2GpLeOcacQbHcrdpBGIKOrWYGcYaqHqhZbc1ierCSU5OFZjtxiC3fExojGkg3PYg9xmnmjStKEa4Lv6umvflgaTduA9V>'
+    # PROJECT_ID: '<string>' # Optional.
+    # NODE_JS_VERSION: '<string>' # Optional.
+    # MESSAGE: '<string>' # Optional.
+    # EXTRA_ARGS: '<string>' # Optional.
+    # MULTI_SITES_CONFIG: '<json>' # Optional
+    # DEBUG: '<boolean>' # Optional.
